@@ -93,7 +93,7 @@ Day 92 - [Let's write a Beacon Object File for Havoc C2 - Part 2](https://www.10
 Day 93 - [Let's write a Beacon Object File for Havoc C2 - Part 3](https://www.100daysofredteam.com/p/lets-write-a-beacon-object-file-for-havoc-c2-part-3)  
 Day 94 - [How process injection works in Linux vs Windows?](https://www.100daysofredteam.com/p/how-process-injection-works-in-linux-vs-windows)  
 Day 95 - [Let's write a Beacon Object File for Havoc C2 - Part 4](https://www.100daysofredteam.com/p/lets-write-a-beacon-object-file-for-havoc-c2-part-4)  
-Day 96 - [What is ptrace process injection and how it enables red team trade-craft?](https://www.100daysofredteam.com/p/what-is-ptrace-process-injection)
+Day 96 - [What is ptrace process injection and how it enables red team trade-craft?](https://www.100daysofredteam.com/p/what-is-ptrace-process-injection)  
 Day 97 - [How quantum computing might shape red teaming?](https://www.100daysofredteam.com/p/how-quantum-computing-might-shape-red-teaming)  
 Day 98 - [Communicating results of a red team engagement](https://www.100daysofredteam.com/p/communicating-results-of-a-red-team-engagement)  
 Day 99 - [The Red Team Pyramid of Pain](https://www.100daysofredteam.com/p/the-red-team-pyramid-of-pain)  
