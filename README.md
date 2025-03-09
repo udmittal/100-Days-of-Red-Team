@@ -8,3 +8,6 @@ Season 1 (Categorized) - In this file I have categorized posts from the first se
 - [100 Days of Red Team GitHub Repository](https://github.com/100daysofredteam/)
 - [100 Days of Red Team YouTube Channel](https://www.youtube.com/@100DaysOfRedTeam)
 - [100 Days of Red Team Medium (for consolidated posts)](https://100daysofredteam0.medium.com)
+- [100 Days of Red Team WhatsApp](https://yks.red/Join100DaysOfRedTeamOnWhatsApp)
+- [100 Days of Red Team Telegram](https://t.me/l00DaysofRedTeam)
+- [100 Days of Red Team Discord](https://yks.red/discord)
