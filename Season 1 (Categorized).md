@@ -79,7 +79,7 @@
 - [Quick introduction to kernel callbacks for red team professionals](https://www.100daysofredteam.com/p/quick-introduction-to-kernel-callbacks-red-team)
 - [Using WDAC to Disable EDR - Krueger](https://www.100daysofredteam.com/p/using-wdac-to-disable-edr-krueger)
 
-## MacOS Security & Tradecraft
+## macOS Security & Tradecraft
 - [What is dylib hijacking in macOS and how it enables red team trade-craft?](https://www.100daysofredteam.com/p/what-is-dylib-hijacking-in-macos)
 - [macOS security fundamentals for red team professionals - Part 1](https://www.100daysofredteam.com/p/macos-security-for-red-team-professionals-part-1)
 - [macOS security fundamentals for red team professionals - Part 2](https://www.100daysofredteam.com/p/macos-security-fundamentals-for-red-team-part-2)  
