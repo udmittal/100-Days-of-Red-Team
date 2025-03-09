@@ -24,7 +24,6 @@
 - [Communicating results of a red team engagement](https://www.100daysofredteam.com/p/communicating-results-of-a-red-team-engagement)
 - [How to ensure that the red team is setup for success?](https://www.100daysofredteam.com/p/how-to-ensure-that-the-red-team-is-setup-for-success)
 - [How mature is your red team?](https://www.100daysofredteam.com/p/how-mature-is-your-red-team)
-- 
 
 ## Command and Control (C2)
 - [It's all about Command and Control](https://www.100daysofredteam.com/p/its-all-about-command-and-control)
